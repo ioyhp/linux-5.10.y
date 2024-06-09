@@ -1,7 +1,3 @@
-menu "mt7668"
-
 config MTK_WIFI_ONLY
 	tristate "MTK WIFI ONLY"
 	default m
-
-endmenu
